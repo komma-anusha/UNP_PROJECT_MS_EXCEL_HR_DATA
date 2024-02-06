@@ -8,4 +8,4 @@
   
   pdf file: https://www.canva.com/design/DAF71V8rK5g/gliqng4gCfjkklnNmgDL2Q/edit
  
-  Excel file: D:\HR_DASHBOARD.xlsx
+  Excel file: 
