@@ -6,6 +6,5 @@
  2) Leveraged Excel charts,graphs and conditional fomatting for a compelling and easy to understand presentation of data.
  3) Designed a userfriendly dashboard interface accessible to users across different levels of expertise within the organisation.
   
-  pdf file: https://www.canva.com/design/DAF71V8rK5g/gliqng4gCfjkklnNmgDL2Q/edit
- 
-  Excel file: 
+  pdf file: https://drive.google.com/file/d/11wG8W38Aboq1w6SynoHJt5NX5S4GhNx6/view?usp=sharing
+  Excel file: https://docs.google.com/spreadsheets/d/12DalA8hkWg7eGx4sonuGYNCKfIekhTcg/edit?usp=sharing&ouid=106317484879146182620&rtpof=true&sd=true
